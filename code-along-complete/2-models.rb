@@ -99,3 +99,4 @@ twitter.destroy
 
 # How many rows are in the companies table?
 puts "companies: #{Company.all.count}" # companies: 2
+
